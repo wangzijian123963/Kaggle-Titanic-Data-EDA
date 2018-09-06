@@ -1,1 +1,1 @@
-# Kaggle Titanic Data EDA
+# Exploratory Analysis for the Titanic Data in Kaggle Competition
